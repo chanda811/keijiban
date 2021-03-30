@@ -1,0 +1,130 @@
+.logo img{
+    width: 500px;
+}
+
+header{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+header ul{
+    list-style-type: none;
+    line-height: 60px;
+}
+
+header ul li{
+    float: left;
+    padding-right: 10px;
+    padding-left: 50px;
+    color: white;
+}
+
+main{
+    clear: both;
+}
+
+.margin-contalner{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.left{
+    float: left;
+    width: 65%;
+}
+
+.pro{
+    border-bottom: 10px solid lightgray;
+    border-left: 5px solid black;
+    padding-left: 5px;
+}
+
+.nyuryoku{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-left: 4px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px; 
+    width: 500px;
+    font-size: 20px;
+}
+
+form{
+    margin: 0 auto;
+    margin-left: 5px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 5px;
+    width: 100%;
+}
+
+form div{
+    padding: 10px;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #666666;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+    margin-left: 20px;
+}
+
+.right{
+    float: left;
+    width: 30%;
+    margin-left: 40px;
+}
+.right ul{
+    list-style-type: none;
+    margin-left: -20px;
+    line-height: 30px;
+    
+}
+
+.right h2{
+    border-bottom: 1px dashed black;
+    margin-top: 40px;
+}
+
+
+.abc{
+    padding-top: 11px;
+}
+
+.kiji{
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 100%;
+}
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+}
+
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.handlname{
+    font-size: 12px;
+}
+
+footer{
+    clear: left;
+    margin-top: 30px;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
